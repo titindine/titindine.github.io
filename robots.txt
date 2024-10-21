@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://titindine.github.io/titindine.txt.gz
+Sitemap: https://titindine.github.io/app/titindine.txt.gz
+Sitemap: https://titindine.github.io/assets/titindine.txt.gz
+Sitemap: https://titindine.github.io/css/titindine.txt.gz
+Sitemap: https://titindine.github.io/includes/titindine.txt.gz
+Sitemap: https://titindine.github.io/item/titindine.txt.gz
+Sitemap: https://titindine.github.io/src/titindine.txt.gz
